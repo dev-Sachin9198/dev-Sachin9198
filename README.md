@@ -20,15 +20,15 @@ I love building modern, responsive, and user-friendly web applications.
 
 ## 💼 Skills
 ### Frontend  
-![HTML](https://via.placeholder.com/40)  
+![HTML]()  
 **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind CSS**
 
 ### Backend  
 ![NodeJS](https://via.placeholder.com/40)  
-**Node.js**, **Express.js**
+**----------**, **---------**
 
 ### Database  
-**MongoDB**, **MySQL**
+**---------**, **-------**
 
 ---
 
