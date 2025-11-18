@@ -48,7 +48,7 @@ A clean and responsive calculator using HTML, CSS, and JavaScript.
 
 ---
 
-![Profile Photo](https://via.placeholder.com/180)
+![Profile Photo](https://media.licdn.com/dms/image/v2/D4E22AQGvuBfSgTm8gw/feedshare-shrink_1280/B4EZpnJEKdKMAs-/0/1762667022626?e=1764806400&v=beta&t=kV-0yWT-AhAPSDm2Q5bU480SsDn1oGKbKRMqrilznZM)
 
 
 
