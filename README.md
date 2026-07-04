@@ -42,7 +42,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
----
+
 
 ## 💻 Programming Languages
 
@@ -56,7 +56,7 @@
 <img src="https://komarev.com/ghpvc/?username=dev-Sachin9198E&style=for-the-badge"/>
 </p>
 ---
-## 🧰 Tools & Platforms
+
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
