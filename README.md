@@ -4,7 +4,7 @@
 
 # 💻 Full Stack Developer • Problem Solver • Lifelong Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;ReactJS+%7C+Node.js+%7C+Express.js;HTML+%7C+CSS+%7C+Bootstrap+%7C+Tailwind+CSS;JavaScript+%7C+Python+%7C+C%2B%2B;MySQL+%7C+MongoDB;Code.+Debug.+Build.+Repeat." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;ReactJS+%7C+Node.js+%7C+Express.js;HTML+%7C+CSS+%7C+Bootstrap+%7C+Tailwind+CSS;JavaScript+%7C+Python+%7C+C%2B%2B;MySQL+%7C+MongoDB;Code.+Debug.+Build.+Repeat.;Thanks+for+visiting+my +profile+!" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -15,40 +15,6 @@
 </div>
 
 ---
-
-# 👨‍💻 About Me
-
-```cpp
-class RahulYadav {
-
-public:
-
-    string role = "Full Stack Developer";
-
-    string passion = "Building Modern Web Applications";
-
-    string motto = "Never Stop Learning";
-
-    void codingLife() {
-
-        while(alive){
-
-            Learn();
-
-            Build();
-
-            Debug();
-
-            Improve();
-
-            Repeat();
-
-        }
-
-    }
-
-};
-```
 
 💡 I love solving real-world problems through technology.
 
@@ -83,15 +49,6 @@ public:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
-
-**Relational Database**
-
-* MySQL
-
-**Non-Relational Database**
-
-* MongoDB
-
 ---
 
 ## 💻 Programming Languages
@@ -132,64 +89,6 @@ public:
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable this after configuring the GitHub Action.
-
-```text
-.github/workflows/snake.yml
-```
-
----
-
-# 💭 Developer Philosophy
-
-```text
-Dream()
-
-↓
-
-Learn()
-
-↓
-
-Code()
-
-↓
-
-Debug()
-
-↓
-
-Deploy()
-
-↓
-
-Repeat()
-```
-
----
-
 # ⚡ Favorite Quotes
 
 > "Programs must be written for people to read, and only incidentally for machines to execute."
@@ -207,30 +106,6 @@ Repeat()
 
 ---
 
-# 🚀 Current Goals
-
-✅ Master ReactJS
-
-✅ Become an Expert in Node.js
-
-✅ Build Scalable Backend APIs
-
-✅ Improve Problem Solving Skills
-
-✅ Learn New Technologies Every Day
-
----
-
-# 📌 Currently Working On
-
-* 🚀 Full Stack Web Development
-* ⚛ ReactJS Projects
-* 🌐 REST APIs
-* 📱 Responsive UI Design
-* 🗄 Database Management
-* 💡 Open Source Contributions
-
----
 
 # 🌐 Connect With Me
 
