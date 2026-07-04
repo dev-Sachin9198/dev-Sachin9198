@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Sachin Yadav  
 **Full Stack Web Developer | IT Student**
 
-![Profile Photo](https://i.pinimg.com/originals/ba/0e/b8/ba0eb82dbe74fb21925083c2ea7475b4.jpg)
+![Profile Photo](https://instagram.flko7-3.fna.fbcdn.net/v/t51.82787-15/587612323_17849252667599064_3656784104289492739_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=Mzc3MDU3MDQwMzMyOTgyOTkzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNDQ4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=Bt302IOV898Q7kNvwF4tX8M&_nc_oc=Adq9MGNCclys0Obt5YsT1zopILmMIdMqYYy3a7GuvE2ZUBvatPuz647Z0Z_FrXO-iggXhJy3j6b2gKQ3b2eUcJu3&_nc_ad=z-m&_nc_cid=1174&_nc_zt=23&_nc_ht=instagram.flko7-3.fna&_nc_gid=PrJ3Hznh8q8kHAs1WMWp2Q&_nc_ss=7a22e&oh=00_AQDhgkr_wYsItOpCeHIxol8l9is0EPVjjdMIYq3WLnMTrw&oe=6A4F2897)
 
 ---
 
@@ -14,7 +14,7 @@ I love building modern, responsive, and user-friendly web applications.
 
 ## 🧑‍🎓 Education
 - **Diploma in Information Technology**  
-  (Add your college/university name here)
+  (government polytechnic mirzapur)
 
 ---
 
