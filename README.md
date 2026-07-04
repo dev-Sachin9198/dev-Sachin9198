@@ -201,7 +201,6 @@ Repeat()
 ---
 
 > "The best way to predict the future is to build it."
-
 ---
 
 > "Every expert was once a beginner who refused to quit."
